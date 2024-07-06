@@ -15,6 +15,6 @@ Answer questions to generate a logo such as shape, shape color, text, and text c
 Logo will be written to logo.svg in the working directory.
 Run tests with npm run test
 Links
-GitHub ~ https://github.com/stevelomax1
+GitHub: https://github.com/stevelomax1
 
-Repository ~ 
+Repository: https://github.com/stevelomax1/logo-logo 
