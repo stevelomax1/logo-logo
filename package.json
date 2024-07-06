@@ -1,0 +1,23 @@
+{
+    "name": "logo-logo",
+    "version": "1.0.0",
+    "description": "A command-line application to generate a logo and save it as an SVG file.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "logo",
+        "generator",
+        "svg",
+        "cli"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
