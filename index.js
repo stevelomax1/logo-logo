@@ -5,7 +5,7 @@ const { Triangle, Circle, Square } = require('./lib/shapes');
 const questions = [
   {
     type: 'input',
-    name: 'tex',
+    name: 'text',
     message: 'Enter the text for your logo (up to 3 characters):',
     validate: input => input.length <= 3 || 'Text must be 3 characters or less.',
   },
